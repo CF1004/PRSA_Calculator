@@ -13,7 +13,7 @@ This calculator lets you enter your own values for starting capital, monthly inp
 
 ## Example Screenshot
 
-![PRSA Calculator Screenshot](PRSA_Growth_Calculator.png)
+![PRSA Calculator Screenshot](PRSA_Growth_Calculator.jpg)
 
 ## 🧮 How to use
 
