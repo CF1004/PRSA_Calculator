@@ -11,6 +11,10 @@ This calculator lets you enter your own values for starting capital, monthly inp
 - Lets you test different scenarios quickly in Excel
 - Shows the result in today's euros after inflation adjustment
 
+## Example Screenshot
+
+![PRSA Calculator Screenshot](your-screenshot-file-name.png)
+
 ## 🧮 How to use
 
 1. Download the Excel file.
@@ -30,6 +34,6 @@ This calculator lets you enter your own values for starting capital, monthly inp
 
 I built this as a small Excel portfolio project to create a practical and visually clean pension growth calculator that can be used to test different PRSA scenarios.
 
-## 📂 File
+## ⬇️ Download
 
-- `PRSA_Calculator.xlsx`
+[Click here to download](your-download-link-here)
